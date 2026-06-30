@@ -29,4 +29,3 @@ frontend architecture, performance, and accessible (WCAG) component systems.
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/abhidnya-g-811795111) · abhidnya.work@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhidnyag&show_icons=true" alt="stats" />
